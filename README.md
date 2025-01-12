@@ -1,5 +1,6 @@
 # PDF Processing and Summarization System
 
+# Summarized text: summary_drylab_20250112_162647.txt
 This project implements a PDF processing system that extracts text, creates vector embeddings, and generates summaries using modern NLP techniques.
 
 ## Tech Stack
